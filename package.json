@@ -1,0 +1,15 @@
+{
+  "name": "inline-promise",
+  "version": "1.0.0",
+  "main": "main.js",
+  "repository": {
+	"type": "git",
+	"url": "git+https://github.com/maximedupre/inline-promise.git"
+  },
+  "author": "Maxime Dupré <maximedupre@me.com> (https://github.com/maximedupre)",
+  "license": "ISC",
+  "bugs": {
+	"url": "https://github.com/maximedupre/inline-promise/issues"
+  },
+  "homepage": "https://github.com/maximedupre/inline-promise#readme"
+}
